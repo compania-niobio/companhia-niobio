@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://niobio.vercel.app/sitemap.xml
